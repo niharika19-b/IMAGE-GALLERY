@@ -1,1 +1,1 @@
-This image gallery repository i have done with Html and Css.
+This image gallery repository i have done with HTML and CSS.
